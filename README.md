@@ -1,5 +1,4 @@
 # Data Science Capstone Project 
-### Data Acquisition and Pre-Processing Report
 
 ## Stock Market Prediction
 
